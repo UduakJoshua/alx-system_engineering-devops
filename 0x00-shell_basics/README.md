@@ -1,1 +1,2 @@
-This is a project on shell basics
+#!/bin/bash
+This is the shell basic root directory
